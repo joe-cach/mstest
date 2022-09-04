@@ -21,7 +21,7 @@ namespace UnitTest.Test
             var result = sum.SumValues(3,4);
 
             //Assert
-            Assert.AreEqual(7, result);
+            Assert.AreEqual(5, result);
         }
     }
 }
